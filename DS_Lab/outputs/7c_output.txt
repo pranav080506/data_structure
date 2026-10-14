@@ -1,0 +1,10 @@
+===== KRUSKAL'S MINIMUM SPANNING TREE =====
+
+MST Edges:
+  Edge (2 - 5)  weight = 1
+  Edge (0 - 5)  weight = 2
+  Edge (3 - 4)  weight = 2
+  Edge (1 - 5)  weight = 3
+  Edge (2 - 3)  weight = 3
+
+Total MST weight = 11

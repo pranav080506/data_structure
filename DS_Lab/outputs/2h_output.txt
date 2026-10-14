@@ -1,0 +1,7 @@
+===== DIRECT HASHING =====
+Address = Key (direct mapping)
+Key        Hash Address
+-----------------------------
+101        101         
+103        103         
+105        105         

@@ -1,0 +1,15 @@
+===== CIRCULAR LINKED LIST =====
+
+  Inserted: 1
+  Inserted: 2
+  Inserted: 3
+  Inserted: 4
+
+After inserting 1, 2, 3, 4:
+  Circular List: 1 2 3 4 (back to 1)
+
+Delete first node:
+  Deleted first: 1
+
+After deleting first:
+  Circular List: 2 3 4 (back to 2)

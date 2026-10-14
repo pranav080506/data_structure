@@ -1,0 +1,3 @@
+===== INFIX TO POSTFIX =====
+Infix  : A+B*C-(D/E+F)*G
+Postfix: ABC*+DE/F+G*-

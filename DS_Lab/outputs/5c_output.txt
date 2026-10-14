@@ -1,0 +1,12 @@
+===== DOUBLY LINKED LIST =====
+
+After inserting 11, 22, 33, 44:
+  Forward : 11 22 33 44 
+  Backward: 44 33 22 11 
+
+Delete 22:
+  Deleted: 22
+
+After deletion:
+  Forward : 11 33 44 
+  Backward: 44 33 11 

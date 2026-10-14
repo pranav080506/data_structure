@@ -1,0 +1,14 @@
+===== STACK USING LINKED LIST =====
+  Pushed: 5
+  Pushed: 15
+  Pushed: 25
+  Pushed: 35
+
+After pushing 5, 15, 25, 35:
+  Stack (top -> bottom): 35 25 15 5 
+
+Popping once:
+  Popped: 35
+
+After one pop:
+  Stack (top -> bottom): 25 15 5 

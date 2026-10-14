@@ -1,0 +1,8 @@
+===== MODULO DIVISION HASHING =====
+Table size: 10
+Key        Hash Address
+-----------------------------
+1234       4         
+5678       8         
+905        5         
+47         7         

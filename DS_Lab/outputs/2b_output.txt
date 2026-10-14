@@ -1,0 +1,4 @@
+===== BINARY SEARCH =====
+Sorted array: 10 20 30 40 50 60 70 80 90 
+  Search 80 -> Found at index 7
+  Search 25 -> Not found

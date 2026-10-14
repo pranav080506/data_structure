@@ -1,0 +1,5 @@
+===== POLYNOMIAL ADDITION =====
+
+P1 = 5x^3 + 4x^2 + 2
+P2 = 3x^3 + 6x + 7
+P1 + P2 = 8x^3 + 4x^2 + 6x + 9

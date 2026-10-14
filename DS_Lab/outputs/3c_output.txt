@@ -1,0 +1,4 @@
+===== POSTFIX EVALUATION =====
+Expression : 231*+9-
+Evaluation : 2 + (3 * 1) - 9
+Result     : -4

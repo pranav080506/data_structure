@@ -1,0 +1,7 @@
+===== EXPRESSION TREE =====
+
+Postfix input : ab+cd-*
+
+Infix  : ((a+b)*(c-d))
+Prefix : *+ab-cd
+Postfix: ab+cd-*

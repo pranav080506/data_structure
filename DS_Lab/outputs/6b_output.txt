@@ -1,0 +1,15 @@
+===== MAX HEAP =====
+
+  Inserted: 15
+  Inserted: 30
+  Inserted: 10
+  Inserted: 40
+  Inserted: 25
+  Inserted: 50
+
+After all insertions:
+  Heap: 50 30 40 15 25 10 
+
+Deleted root: 50
+After deletion:
+  Heap: 40 30 10 15 25 

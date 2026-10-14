@@ -1,0 +1,6 @@
+===== FOLD BOUNDARY HASHING =====
+Reverse first and last parts, keep middle, then add
+Key             Hash Address   
+-------------------------------
+123456789       1764           
+345678912       1440           

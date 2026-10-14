@@ -1,0 +1,7 @@
+===== DIGIT EXTRACTION HASHING =====
+Extracting digits at positions 1, 3, 5 (left to right)
+Key          Hash Address
+---------------------------------
+379452       395         
+123456       135         
+984321       942         

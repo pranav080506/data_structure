@@ -1,0 +1,6 @@
+===== FOLD SHIFT HASHING =====
+Splitting key into 3-digit parts and summing
+Key             Hash Address   
+-------------------------------
+123456789       1368           
+345678912       1935           

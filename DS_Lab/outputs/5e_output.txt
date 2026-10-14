@@ -1,0 +1,15 @@
+===== ARRAY VS LINKED LIST =====
+
+Feature                Array                        Linked List                 
+---------------------- ---------------------------- ----------------------------
+Memory Allocation      Contiguous (static)          Non-contiguous (dynamic)    
+Size                   Fixed at compile time        Grows/shrinks at runtime    
+Access                 Random O(1)                  Sequential O(n)             
+Insertion/Deletion     O(n) – shifting needed     O(1) – pointer update     
+Extra Memory           None                         Pointer per node            
+Cache Performance      Excellent (locality)         Poor (scattered nodes)      
+Overflow Handling      Requires reallocation        Natural – malloc new node 
+
+Conclusion:
+  - Use Arrays when size is known, random access is needed.
+  - Use Linked Lists when size is dynamic, frequent insert/delete.

@@ -1,0 +1,3 @@
+===== QUICK SORT =====
+Before sorting: 64 25 12 22 11 90 45 3 78 56 
+After sorting : 3 11 12 22 25 45 56 64 78 90 

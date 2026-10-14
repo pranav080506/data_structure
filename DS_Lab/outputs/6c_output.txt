@@ -1,0 +1,15 @@
+===== MIN HEAP =====
+
+  Inserted: 15
+  Inserted: 30
+  Inserted: 10
+  Inserted: 40
+  Inserted: 25
+  Inserted: 50
+
+After all insertions:
+  Heap: 10 25 15 40 30 50 
+
+Deleted root: 10
+After deletion:
+  Heap: 15 25 50 40 30 

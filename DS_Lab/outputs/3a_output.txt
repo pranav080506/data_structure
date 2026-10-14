@@ -1,0 +1,15 @@
+===== STACK USING ARRAY =====
+  Pushed: 10
+  Pushed: 20
+  Pushed: 30
+  Pushed: 40
+
+After pushing 10, 20, 30, 40:
+  Stack (top -> bottom): 40 30 20 10 
+
+Popping twice:
+  Popped: 40
+  Popped: 30
+
+After two pops:
+  Stack (top -> bottom): 20 10 

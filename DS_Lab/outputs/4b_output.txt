@@ -1,0 +1,22 @@
+===== CIRCULAR QUEUE =====
+
+  Enqueued: 1
+  Enqueued: 2
+  Enqueued: 3
+  Enqueued: 4
+  Enqueued: 5
+  Queue Overflow! Cannot enqueue 6
+
+After enqueue 1-5 (and attempting 6):
+  Queue (front -> rear): 1 2 3 4 5 
+
+Dequeue twice:
+  Dequeued: 1
+  Dequeued: 2
+
+Enqueue 7 and 8:
+  Enqueued: 7
+  Enqueued: 8
+
+Final queue:
+  Queue (front -> rear): 3 4 5 7 8 

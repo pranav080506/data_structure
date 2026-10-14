@@ -1,0 +1,7 @@
+===== SUBTRACTION HASHING =====
+Address = Key - 100
+Key        Hash Address
+-----------------------------
+101        1           
+103        3           
+105        5           

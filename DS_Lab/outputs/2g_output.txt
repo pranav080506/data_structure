@@ -1,0 +1,22 @@
+===== LINEAR PROBING =====
+Table size: 10
+Keys to insert: 23 43 13 27 33 55 
+
+  Insert 23 -> address 3
+  Insert 43 -> address 3 occupied, collision! Placed at 4
+  Insert 13 -> address 3 occupied, collision! Placed at 5
+  Insert 27 -> address 7
+  Insert 33 -> address 3 occupied, collision! Placed at 6
+  Insert 55 -> address 5 occupied, collision! Placed at 8
+
+  Hash Table:
+  [0] = ---
+  [1] = ---
+  [2] = ---
+  [3] = 23
+  [4] = 43
+  [5] = 13
+  [6] = 33
+  [7] = 27
+  [8] = 55
+  [9] = ---

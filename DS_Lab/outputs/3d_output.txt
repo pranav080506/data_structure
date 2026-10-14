@@ -1,0 +1,7 @@
+===== BALANCED PARENTHESIS =====
+
+Expression 1: {[(a+b)*(c-d)]/e}
+Result      : BALANCED
+
+Expression 2: {[(a+b)*(c-d])/e}
+Result      : NOT BALANCED

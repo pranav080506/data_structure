@@ -1,0 +1,16 @@
+===== SINGLY LINKED LIST =====
+
+After inserting 10,20,30 at end and 5 at beginning:
+  List: 5 10 20 30 
+  Node count: 4
+
+Search operations:
+  Search 20 -> Found at position 2
+  Search 99 -> Not found
+
+Delete 10:
+  Deleted: 10
+  List: 5 20 30 
+
+Reverse the list:
+  List: 30 20 5 

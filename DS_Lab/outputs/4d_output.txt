@@ -1,0 +1,16 @@
+===== DOUBLE ENDED QUEUE (DEQUE) =====
+
+  InsertRear: 10
+  InsertRear: 20
+  InsertFront: 5
+  InsertFront: 1
+
+After insertRear 10,20 and insertFront 5,1:
+  Deque (front -> rear): 1 5 10 20 
+
+DeleteFront and DeleteRear:
+  DeleteFront: 1
+  DeleteRear: 20
+
+After deletions:
+  Deque (front -> rear): 5 10 

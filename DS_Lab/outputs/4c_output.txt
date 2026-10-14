@@ -1,0 +1,16 @@
+===== PRIORITY QUEUE (LINKED LIST) =====
+
+  Inserted: data=100, priority=p3
+  Inserted: data=200, priority=p1
+  Inserted: data=300, priority=p4
+  Inserted: data=400, priority=p2
+
+After inserting all elements:
+  Priority Queue: [200,p1] [400,p2] [100,p3] [300,p4] 
+
+Deleting two elements:
+  Deleted : data=200, priority=p1
+  Deleted : data=400, priority=p2
+
+Remaining queue:
+  Priority Queue: [100,p3] [300,p4] 
